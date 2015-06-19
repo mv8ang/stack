@@ -1,0 +1,25 @@
+{
+  "name": "bowergulp3",
+  "version": "0.0.0",
+  "authors": [
+    "Mladen V. Angelov <xfk.dgt@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bourbon": "~4.2.3",
+    "susy": "~2.2.5",
+    "breakpoint-sass": "~2.6.1",
+    "css-reset": "~2.5.1"
+  }
+}

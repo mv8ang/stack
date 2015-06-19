@@ -1,0 +1,13 @@
+@import 'components/bourbon/app/assets/stylesheets/bourbon';
+@import 'components/susy/sass/susy';
+@import 'components/breakpoint-sass/stylesheets/breakpoint';
+@import 'reset';
+@import 'vars';
+
+$susy: (
+  columns: 12,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: split
+);
